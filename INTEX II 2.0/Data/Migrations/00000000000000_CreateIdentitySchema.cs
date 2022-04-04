@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace INTEX_II_2._0.Data.Migrations
+namespace CrashDataset._0.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {

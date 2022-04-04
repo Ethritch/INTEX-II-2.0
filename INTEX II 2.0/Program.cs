@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace INTEX_II_2._0
+namespace CrashDataset
 {
     public class Program
     {

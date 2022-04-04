@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
-namespace INTEX_II_2._0.Areas.Identity.Pages.Account.Manage
+namespace CrashDataset._0.Areas.Identity.Pages.Account.Manage
 {
     public static class ManageNavPages
     {
