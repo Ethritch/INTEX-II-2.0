@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-INTEX_II_2._0-6B758907-5090-4477-998A-916B27A4F104</UserSecretsId>
+    <RootNamespace>INTEX_II_2._0</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.23" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.23" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.23" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.23" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.23" />
+  </ItemGroup>
+
+</Project>
